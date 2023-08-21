@@ -1,0 +1,5 @@
+The superclass "javax.servlet.http.HttpServlet", determined from the Dynamic Web Module facet version (2.3), was not found on the Java Build Path
+this error will come at start in index.jsp do follow stack
+
+second errror at pom.xml, solution below
+https://stackoverflow.com/questions/68397062/could-not-initialize-class-org-apache-maven-plugin-war-util-webappstructureseria
